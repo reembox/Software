@@ -18,3 +18,6 @@ There is also the opensource [NetIO Dashboard Widget](https://github.com/davidei
 
 ### Ambilight
 Using the DMX output of reembox, you can use [https://github.com/davideickhoff/Mac-OSX-Ambilight-for-DMX](https://github.com/davideickhoff/Mac-OSX-Ambilight-for-DMX) to build an ambilight.
+
+### Siri Proxy
+Daniel has implemented a Siri Proxy to control the reembox. [https://github.com/taschik/siriproxy-reembox](https://github.com/taschik/siriproxy-reembox)
