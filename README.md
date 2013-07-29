@@ -14,7 +14,7 @@ The "reembox helper" © 2013 Jonas Eickhoff is licensed under the Creative Commo
 reembox can be controlled with all kind of TCP remote control apps. 
 
 ### NetIO application
-This app (not opensource) has been created to control reembox with a smartphone (Android/iOS). 
+The NetIO app (not opensource, [netio.davideickhoff.de](http://netio.davideickhoff.de)) has been created to control reembox with a smartphone (Android/iOS). 
 There is also the opensource [NetIO Dashboard Widget](https://github.com/davideickhoff/NetIO-OSX-Dashboard-Widget).
 
 ### Ambilight
