@@ -7,6 +7,7 @@ Repository for tools and programs to setup and control reembox.
 
 The reembox helper is a Java application which simplifies finding the Ethersex commands for controlling RFM12 devices and reading/testing IR signals.
 
+The "reembox helper" © 2013 Jonas Eickhoff is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License: http://creativecommons.org/licenses/by-sa/3.0/
 
 ## external
 
